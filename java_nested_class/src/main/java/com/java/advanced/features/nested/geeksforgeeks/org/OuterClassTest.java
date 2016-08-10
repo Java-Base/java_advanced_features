@@ -1,7 +1,7 @@
 package com.java.advanced.features.nested.geeksforgeeks.org;
 
 /**
- * 
+ * Nested class test
  *
  * @author 	Lian
  * @time	2016年7月20日
@@ -9,7 +9,11 @@ package com.java.advanced.features.nested.geeksforgeeks.org;
  */
 public class OuterClassTest {
 
-	// How to create instance of static and non-static nested class?
+	/**
+	 * How to create instance of static and non-static nested class?
+	 * 
+	 * @param args
+	 */
 	public static void main(String[] args) {
 
 		// Create instance of nested static class
@@ -26,8 +30,7 @@ public class OuterClassTest {
 		// Calling non-static method of Inner class
 		innerClass.display();
 
-		// We can also combine above steps in one step to create instance of
-		// Inner class
+		// We can also combine above steps in one step to create instance of Inner class
 		OuterClass.InnerClass innerObject = new OuterClass().new InnerClass();
 
 		// Similarly we can now call Inner class method
