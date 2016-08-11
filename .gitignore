@@ -1,10 +1,10 @@
 # directory #
-bin/
-.settings/
+*bin/
+*.settings/
 
 
 # file #
-.classpath
-.project
+*.classpath
+*.project
 
-/target/
+*/target/
