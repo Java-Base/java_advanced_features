@@ -14,7 +14,7 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import com.java.advanced.features.poi.excel.xlsx.model.Data;
 
 /**
- * 
+ * Util test create xlsx file
  *
  * @author 	Lian
  * @time	2016年8月11日
@@ -31,6 +31,9 @@ public class XlsxUtil {
 		}
 	}
 
+	/**
+	 * Create .xlsx file
+	 */
 	public static void createXlsx() {
 		Workbook workbook = new XSSFWorkbook();
 		Sheet sheet = workbook.createSheet("15元优惠券");
@@ -68,6 +71,12 @@ public class XlsxUtil {
 		System.out.println("......done");
 	}
 
+	/**
+	 * Padding data to row
+	 *
+	 * @param list
+	 * @param sheet
+	 */
 	public static void padData(List<Data> list, Sheet sheet) {
 		Row row = null;
 		int i = 1;

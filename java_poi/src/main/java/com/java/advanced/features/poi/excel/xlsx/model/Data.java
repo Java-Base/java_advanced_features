@@ -1,7 +1,7 @@
 package com.java.advanced.features.poi.excel.xlsx.model;
 
 /**
- * 
+ * Data Model
  *
  * @author 	Lian
  * @time	2016年8月11日
@@ -14,6 +14,8 @@ public class Data {
 	private String address;
 
 	/**
+	 * Constructor with all attribute
+	 *
 	 * @param name
 	 * @param age
 	 * @param mail
