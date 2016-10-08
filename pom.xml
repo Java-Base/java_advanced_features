@@ -28,5 +28,6 @@
 		<module>java_io</module>
 		<module>java_nested_class</module>
 		<module>java_poi</module>
-	</modules>
+        <module>java_md5</module>
+    </modules>
 </project>

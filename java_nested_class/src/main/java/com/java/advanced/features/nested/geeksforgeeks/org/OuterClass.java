@@ -6,6 +6,7 @@ package com.java.advanced.features.nested.geeksforgeeks.org;
  * @author 	Lian
  * @time	2016年7月20日
  * @url		http://www.geeksforgeeks.org/static-class-in-java/
+ * @sine	1.0
  */
 class OuterClass {
 
