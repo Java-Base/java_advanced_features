@@ -6,10 +6,10 @@ import java.io.File;
  * 1. 我们主要讲的是流，流的本质也是对文件的处理，我们循序渐进一步一步从文件将到流去。
  * 2. java 处理文件的类 File,java提供了十分详细的文件处理方法
  *
+ * @url		http://blog.csdn.net/yczz/article/details/38761237
  * @author 	Lian
  * @time	2016年7月11日
- * @url		http://blog.csdn.net/yczz/article/details/38761237
- *
+ * @since	1.0
  */
 public class FileExample {
 

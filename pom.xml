@@ -29,5 +29,7 @@
 		<module>java_nested_class</module>
 		<module>java_poi</module>
         <module>java_md5</module>
+        <module>java_httpclient</module>
+        <module>java_classloader</module>
     </modules>
 </project>
