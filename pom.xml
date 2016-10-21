@@ -31,5 +31,6 @@
         <module>java_md5</module>
         <module>java_httpclient</module>
         <module>java_classloader</module>
+        <module>java_jedis</module>
     </modules>
 </project>
