@@ -32,5 +32,6 @@
         <module>java_httpclient</module>
         <module>java_classloader</module>
         <module>java_jedis</module>
+        <module>java_concurrent</module>
     </modules>
 </project>

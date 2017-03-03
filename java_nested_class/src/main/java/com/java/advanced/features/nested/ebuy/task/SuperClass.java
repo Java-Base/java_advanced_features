@@ -9,6 +9,8 @@ package com.java.advanced.features.nested.ebuy.task;
  */
 public interface SuperClass {
 
+	String COMPANY = "alibaba";
+
 	void print();
 
 	public static void print1() {
