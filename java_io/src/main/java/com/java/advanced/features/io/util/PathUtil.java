@@ -25,7 +25,7 @@ public class PathUtil {
 	}
 
 	/**
-	 * 
+	 * 获取规范路径
 	 * 
 	 * @return
 	 * @throws IOException 
@@ -35,7 +35,7 @@ public class PathUtil {
 	}
 
 	/**
-	 * 
+	 * 获取绝对路径
 	 * 
 	 * @return
 	 */
