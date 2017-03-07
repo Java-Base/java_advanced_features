@@ -8,7 +8,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
-	<name>advanced_features</name>
+	<name>java_advanced_features</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
@@ -47,5 +47,6 @@
         <module>java_httpclient</module>
         <module>java_classloader</module>
         <module>java_jedis</module>
+        <module>java_concurrent</module>
     </modules>
 </project>
